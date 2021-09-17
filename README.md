@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Callie 🖤
-**Username**: @callieellis1
 
 **Current Role**: Senior Analyst at _Crowell & Moring_
+____________________________________
 
-
-## My Technical Skills Include 👓:
+## My Technical Development Tools Include 👓:
 - SQL 
 - MySQL 🐬
 - Python 🐍
 - HTML5 5️⃣
 - CSS
+- Java ☕
 
 
 ## I'm Currently Learning🌱:
@@ -25,13 +25,11 @@
  - Riding my bicycle 🚴
  - Rock climbing 🧗
 
-| A Table | UGH  | Let's See |
-| ------- |:----:| ---------:|
-|a column | asdf | asdlfasdl |
+<img align= "left" height="300em" src="https://github-readme-stats.vercel.app/api?username=callieellis1&show_icons=true&title_color=CC5A71&text_color=C89B7B&bg_color=34344A&border_color=FF006E&border_radius=3&hide_border=falsebg&&count_private=true&include_all_commits=true" />
 
-<img height="300em" src="https://github-readme-stats.vercel.app/api?username=callieellis1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-#### 📫 You can reach my by emailing me at callie.ellis1@gmail.com
+____________________________________
+##### 📫 You can reach me by emailing me at callie.ellis1@gmail.com
 
 <!---
 callieellis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
