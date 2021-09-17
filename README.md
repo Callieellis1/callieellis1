@@ -25,7 +25,11 @@
  - Riding my bicycle 🚴
  - Rock climbing 🧗
 
+| A Table | UGH  | Let's See |
+| ------- |:----:| ---------:|
+|a column | asdf | asdlfasdl |
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=callieellis1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #### 📫 You can reach my by emailing me at callie.ellis1@gmail.com
 
