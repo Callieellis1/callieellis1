@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Callie 🖤
+# 👋 Hi, I’m Callie
 
 **Current Role**: Senior Analyst at _Crowell & Moring_
 ____________________________________
