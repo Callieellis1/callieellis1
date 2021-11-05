@@ -3,7 +3,7 @@
 **Current Role**: Senior Analyst at _Crowell & Moring_
 ____________________________________
 
-## My Technical Development Tools Include 👓:
+## My Technical Development Tools and Development Languages Include 👓:
 - SQL / T-SQL Certified
 - MySQL 🐬
 - Python 🐍
@@ -13,6 +13,7 @@ ____________________________________
 - Javascript ✏️
 - Typescript 🖨️
 - Node.js
+- XML
 
 ## I'm Currently Learning🌱:
 - MongoDB 🐢
