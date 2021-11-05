@@ -4,18 +4,22 @@
 ____________________________________
 
 ## My Technical Development Tools Include 👓:
-- SQL 
+- SQL / T-SQL Certified
 - MySQL 🐬
 - Python 🐍
 - HTML5 5️⃣
 - CSS
 - Java ☕
-
+- Javascript ✏️
+- Typescript 🖨️
+- Node.js
 
 ## I'm Currently Learning🌱:
 - MongoDB 🐢
 - Kotlin 🤖
 - MEAN development practices 😠
+- Microsoft Azure fundamentals
+- AWS fundamentals
 
 ----------------
 
@@ -24,6 +28,7 @@ ____________________________________
  - Playing an RPG on my computer ⚔️
  - Riding my bicycle 🚴
  - Rock climbing 🧗
+ - Learning something new 📚
 
 ##### 📫 You can reach me by emailing me at callie.ellis1@gmail.com
 
