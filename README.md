@@ -14,7 +14,7 @@ ____________________________________
 - Typescript 🖨️
 - Node.js
 - XML
-- SAIL 
+- SAIL / Appian A-Score Level 1 Certified
 
 ## I'm Currently Learning🌱:
 - MongoDB 🐢
